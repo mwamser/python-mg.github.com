@@ -6,6 +6,6 @@
         <link rel="stylesheet" type="text/css" href="/static/style.css">
     </head>
     <body>
-        <h1>Comunidade Python Minas Gerais</h1>
+        <h1 style="text-align: center; font:bold italic 36px; color:#414141; text-shadow:1px 1px 0 #ccc">Comunidade Python Minas Gerais</h1>
     </body>
 </html>
